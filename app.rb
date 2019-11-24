@@ -7,7 +7,7 @@ class App < Sinatra::Base
   end
 
    get '/hometown' do
-     'My homtown is Brooklyn, NY'
+     'My hometown is Brooklyn, NY'
    end
 
    get '/favorite-song' do
